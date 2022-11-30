@@ -8,13 +8,13 @@ Fore more information visit our website: https://www.playing4softskills.eu or ou
 <img src="https://user-images.githubusercontent.com/119491898/204768202-b6f6662e-40e8-4e95-91e4-d2beab5e0d08.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768262-a5ca1c9d-3abd-4d71-8d80-d35ffcf31f80.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768277-23718939-665a-45b9-90d1-fdc0710fd25a.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768285-5bfd713d-683f-4ffe-9454-aecd30d08653.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768290-798903be-6f4c-48cd-bb72-841e12f4e04e.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768295-f8221ab8-638c-4af3-b053-998eb8c93e51.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768302-93007041-cef0-4fe9-878d-fd8354410f93.PNG" width=24%> <img src="https://user-images.githubusercontent.com/119491898/204768306-c76fc43b-4098-43ef-8f94-c36c54a29ada.PNG" width=24%> 
 
 ## Free download of the app
-iOS: https://apps.apple.com/us/app/soft-skills-training-app/id1613933607
+iOS: https://apps.apple.com/us/app/soft-skills-training-app/id1613933607 - 
 Android: https://play.google.com/store/apps/details?id=com.axonforce.train4softskills
 
 ## If you have any questions regarding this app or the project from which it is originated, please contact:
-Berlink ETN GmbH
-Chaussestrasse 103
-10115 Berlin
+Berlink ETN GmbH,
+Chaussestrasse 103,
+10115 Berlin - 
 Email: info@berlink.eu
 
 ## Project website: 
@@ -25,7 +25,7 @@ This training app has been created by the collaboration of the whole Playing 4 S
 The training app was created by the support of the Erasmus+ Programme of the European Union This app and its code is licensed under a creative commons attribution-non-commercial-share alike 4.0 international
 
 ## This Application is provided by:
-AXONFORCE
-Via Vincenzo Verrastro 17 A/E
-85100 Potenza - Italy
+AXONFORCE, 
+Via Vincenzo Verrastro 17 A/E,
+85100 Potenza - Italy - 
 Email: info@axonforce.com
