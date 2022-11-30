@@ -4,8 +4,14 @@ The app has been designed to allow anyone to use it based on their knowledge on 
 The app combines the typical elements of gamification and the experience of exercising soft skills, acting as a self-analysis tool that can lead to constant personal and relational improvement.
 The app is available in English language, but can be translated using e.g. Google Translator.
 Fore more information visit our website: https://www.playing4softskills.eu or our video on our YouTube-Channel: https://youtu.be/7qu2RCW48Lc 
-
-![IMG_6026](https://user-images.githubusercontent.com/119491898/204768202-b6f6662e-40e8-4e95-91e4-d2beab5e0d08.PNG) ![IMG_6027](https://user-images.githubusercontent.com/119491898/204768262-a5ca1c9d-3abd-4d71-8d80-d35ffcf31f80.PNG) ![IMG_6028](https://user-images.githubusercontent.com/119491898/204768277-23718939-665a-45b9-90d1-fdc0710fd25a.PNG) ![IMG_6029](https://user-images.githubusercontent.com/119491898/204768285-5bfd713d-683f-4ffe-9454-aecd30d08653.PNG) ![IMG_6030](https://user-images.githubusercontent.com/119491898/204768290-798903be-6f4c-48cd-bb72-841e12f4e04e.PNG) ![IMG_6031](https://user-images.githubusercontent.com/119491898/204768295-f8221ab8-638c-4af3-b053-998eb8c93e51.PNG) ![IMG_6032](https://user-images.githubusercontent.com/119491898/204768302-93007041-cef0-4fe9-878d-fd8354410f93.PNG) ![IMG_6033](https://user-images.githubusercontent.com/119491898/204768306-c76fc43b-4098-43ef-8f94-c36c54a29ada.PNG)
+<img src="https://user-images.githubusercontent.com/119491898/204768202-b6f6662e-40e8-4e95-91e4-d2beab5e0d08.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768262-a5ca1c9d-3abd-4d71-8d80-d35ffcf31f80.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768277-23718939-665a-45b9-90d1-fdc0710fd25a.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768285-5bfd713d-683f-4ffe-9454-aecd30d08653.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768290-798903be-6f4c-48cd-bb72-841e12f4e04e.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768295-f8221ab8-638c-4af3-b053-998eb8c93e51.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768302-93007041-cef0-4fe9-878d-fd8354410f93.PNG" width=24%> 
+<img src="https://user-images.githubusercontent.com/119491898/204768306-c76fc43b-4098-43ef-8f94-c36c54a29ada.PNG" width=24%> 
 
 ## Free download of the app
 iOS: https://apps.apple.com/us/app/soft-skills-training-app/id1613933607
